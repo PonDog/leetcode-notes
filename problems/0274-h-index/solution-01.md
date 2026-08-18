@@ -2,8 +2,9 @@
 
 [← 回到 L274: H-Index](README.md)
 
-`Time:O(nlogn)
-Space:O(logn)`
+`Time: O(nlogn)`
+
+`Space: O(logn)`
 
 <details>
 <summary>展開程式碼</summary>

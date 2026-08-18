@@ -3,8 +3,10 @@
 [← 回到 L71: Simplify Path](README.md)
 
 使用stringstream
-`Time:O(n)
-Space:O(n)`
+
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

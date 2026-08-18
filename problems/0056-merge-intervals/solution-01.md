@@ -2,8 +2,9 @@
 
 [← 回到 L56: Merge Intervals](README.md)
 
-`Time:O(nlogn)
-Space:O(1)`
+`Time: O(nlogn)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

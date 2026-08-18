@@ -2,8 +2,9 @@
 
 [← 回到 L202: Happy Number](README.md)
 
-`Time:O(logn) 位數＊會出現的值可能有幾個（會有一個固定最大範圍）
-Space:O(n)`
+`Time: O(logn) 位數＊會出現的值可能有幾個（會有一個固定最大範圍）`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

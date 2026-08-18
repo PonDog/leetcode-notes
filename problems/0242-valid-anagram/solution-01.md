@@ -3,8 +3,10 @@
 [← 回到 L242: Valid Anagram](README.md)
 
 如果改成用Unicode，改用u32string和char32_t。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

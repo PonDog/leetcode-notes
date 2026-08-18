@@ -3,8 +3,10 @@
 [← 回到 L55: Jump Game](README.md)
 
 每一輪都先檢查上一輪跳的距離能不能到當前index。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

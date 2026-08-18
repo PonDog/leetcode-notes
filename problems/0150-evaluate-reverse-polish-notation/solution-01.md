@@ -2,8 +2,9 @@
 
 [← 回到 L150: Evaluate Reverse Polish Notation](README.md)
 
-`Time:O(n)
-Space:O(n)`
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

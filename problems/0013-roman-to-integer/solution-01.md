@@ -9,8 +9,9 @@
 但因為右邊element的右邊還沒看到，所以其實要下一回才能真的確認要＋還-，加的同時會需要補救上一回的＋(-兩遍)，
 有點不直覺。
 
-`Time:O(n)
-Space:O(n)`
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -7,9 +7,9 @@
 lower_bound回傳iterator，要扣掉numbers.begin()才會變index。
 另外還有一種是邊遍歷檢查index j前的hashmap是否已有符合值，邊存hashmap。
 
+`Time: O(nlogn)`
 
-`Time:O(nlogn)
-Space:O(1)`
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

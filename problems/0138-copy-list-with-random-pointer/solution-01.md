@@ -3,8 +3,10 @@
 [← 回到 L138: Copy List with Random Pointer](README.md)
 
 利用hashmap，對應新舊節點，新節點可以靠舊節點的next,random資訊，找到對應該連接的新節點的記憶體位置。
-`Time:O(n)
-Space:O(n)`
+
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

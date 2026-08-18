@@ -2,8 +2,9 @@
 
 [← 回到 L48: Rotate Image](README.md)
 
-`Time:O(n^2)
-Space:O(1)`
+`Time: O(n^2)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

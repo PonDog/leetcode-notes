@@ -2,8 +2,9 @@
 
 [← 回到 L141: Linked List Cycle](README.md)
 
-`Time:O(n)
-Space:O(n)`
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -4,8 +4,9 @@
 
 開numRows數的string vector，遍歷過程中，加到對應的string，最後把string合併。
 
-`Time:O(n)
-Space:O(n)`
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

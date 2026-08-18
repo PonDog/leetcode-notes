@@ -5,8 +5,10 @@
 two pointers法，之後練習用這個方法。
 每次判斷移動頭或尾巴，一次能去除一排可能，範圍收斂，不會錯過解答。
 ![image](assets/r1TjW5sCbx.png)
-`Time:O(nlogn)
-Space:O(1)`
+
+`Time: O(nlogn)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

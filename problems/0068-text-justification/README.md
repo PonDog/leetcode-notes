@@ -2,6 +2,7 @@
 
 [← 回到題庫首頁](../../README.md)
 
+- LeetCode題目連結：[https://leetcode.com/problems/text-justification/description/](https://leetcode.com/problems/text-justification/description/)
 - 難度：Hard
 - 題型：Array
 

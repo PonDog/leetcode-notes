@@ -4,8 +4,9 @@
 
 拿第一個字串依序和後面比，每次把不一樣的字元扣掉，留共同prefix繼續和下一個string比。
 
-`Time:O(n*m)
-Space:O(1)`
+`Time: O(n*m)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

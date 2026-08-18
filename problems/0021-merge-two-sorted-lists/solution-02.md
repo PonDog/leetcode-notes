@@ -3,8 +3,10 @@
 [← 回到 L21: Merge Two Sorted Lists](README.md)
 
 遞迴法
-`Time:O(max(l1長度,l2長度))
-Space:O(max(l1長度,l2長度))`
+
+`Time: O(max(l1長度,l2長度))`
+
+`Space: O(max(l1長度,l2長度))`
 
 <details>
 <summary>展開程式碼</summary>

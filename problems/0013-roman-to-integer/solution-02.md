@@ -7,9 +7,9 @@
 case 'I' (o)
 case "I" (x) 
 
+`Time: O(n)`
 
-`Time:O(n)
-Space:O(1)`
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

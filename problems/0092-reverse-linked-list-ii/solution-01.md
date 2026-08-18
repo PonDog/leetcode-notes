@@ -10,8 +10,9 @@ previous:已經反轉好的串列頭（反轉完成後就是新的區間開頭�
 
 tail:原本反轉區間第一個節點，反轉完成後變成尾巴
 
-`Time:O(n)
-Space:O(1)`
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

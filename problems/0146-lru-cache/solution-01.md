@@ -4,8 +4,10 @@
 
 利用hashmap來達成O(1)搜尋
 利用雙向鏈結串列維護新舊節點關係
-`Time:O(1)
-Space:O(n)`
+
+`Time: O(1)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

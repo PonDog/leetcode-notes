@@ -8,8 +8,9 @@
 這裡的關鍵是每次j往右，i不用重頭考慮，可以直接接續上一輪的i，因為考慮更左邊的i只會比過去紀錄更長。
 遍歷次數<=2n
 
-`Time:O(n)
-Space:O(1)`
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -3,8 +3,10 @@
 [← 回到 L100: Same Tree](README.md)
 
 遞迴DFS，early return，亦可使用非遞迴的BFS queue或DFS stack來解
-`Time:O(n)
-Space:skewed :O(n) balanced:O(logn)`
+
+`Time: O(n)`
+
+`Space: skewed :O(n) balanced:O(logn)`
 
 <details>
 <summary>展開程式碼</summary>

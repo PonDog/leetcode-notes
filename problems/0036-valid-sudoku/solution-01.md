@@ -9,8 +9,9 @@
 另外注意set的insert會回傳pair<iterator, bool>
 ![image](assets/BkQWtRFxGg.png)
 
-`Time:O(81)
-Space:O(81)`
+`Time: O(81)`
+
+`Space: O(81)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -4,8 +4,9 @@
 
 three pointers，從最大的開始比，大的放nums1
 
-`Time:O(m+n)
-Space:O(1)`
+`Time: O(m+n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

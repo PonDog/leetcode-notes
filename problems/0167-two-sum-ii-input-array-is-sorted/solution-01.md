@@ -3,8 +3,11 @@
 [← 回到 L167: Two Sum II - Input Array Is Sorted](README.md)
 
 我的暴力TlE垃圾。
-`Time:O(n^2)
-Space:O(1)
+
+`Time: O(n^2)`
+
+`Space: O(1)`
+
 <details>
 <summary>展開程式碼</summary>
 

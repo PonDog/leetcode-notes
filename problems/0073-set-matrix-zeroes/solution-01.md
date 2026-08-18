@@ -5,8 +5,9 @@
 用原matrix的第一行和第一列紀錄該行列是否要變0，但因為只有一格(0,0)不夠拿來記第一行和第一列的情況，
 所以額外開兩個變數，firstRowZero和firstColZero來記錄記第一列和第一行是否有0。
 
-`Time:O(mn)
-Space:O(1)`
+`Time: O(mn)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -3,8 +3,10 @@
 [← 回到 L104: Maximum Depth of Binary Tree](README.md)
 
 BFS
-`Time:O(n)
-Space:O(每層最大寬度，即過程中Queue的最大長度)`
+
+`Time: O(n)`
+
+`Space: O(每層最大寬度，即過程中Queue的最大長度)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -3,8 +3,10 @@
 [← 回到 L189: Rotate Array](README.md)
 
 用到algorithm的reverse，也可自己寫reverse
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

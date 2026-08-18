@@ -2,8 +2,9 @@
 
 [← 回到 L392: Is Subsequence](README.md)
 
-`Time:O(m)，m = t.size();
-Space:O(1)`
+`Time: O(m)，m = t.size();`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>
