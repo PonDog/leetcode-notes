@@ -2,6 +2,7 @@
 
 [← 回到題庫首頁](../../README.md)
 
+- LeetCode題目連結：[https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
 - 難度：Hard
 - 題型：Sliding Window
 

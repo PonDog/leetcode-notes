@@ -2,8 +2,9 @@
 
 [← 回到 L452: Minimum Number of Arrows to Burst Balloons](README.md)
 
-`Time:O(nlogn)
-Space:O(1)`
+`Time: O(nlogn)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

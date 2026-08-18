@@ -2,8 +2,9 @@
 
 [← 回到 L290: Word Pattern](README.md)
 
-`Time:O(m)
-Space:O(n)`
+`Time: O(m)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

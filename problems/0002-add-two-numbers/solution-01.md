@@ -3,8 +3,10 @@
 [← 回到 L2: Add Two Numbers](README.md)
 
 一開始先建一個dummy的原因是希望可以不要每次都要判斷當前Linked List有無節點，兩種後續需要的串接流程不同，有dummy就可以統一當成有節點的情況。
-`Time:O(max(l1長度,l2長度))
-Space:O(max(l1長度,l2長度))`
+
+`Time: O(max(l1長度,l2長度))`
+
+`Space: O(max(l1長度,l2長度))`
 
 <details>
 <summary>展開程式碼</summary>

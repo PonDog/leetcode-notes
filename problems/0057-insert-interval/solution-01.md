@@ -5,8 +5,10 @@
 1. 先放完全在 newInterval 左邊的區間
 2. 合併所有跟 newInterval 重疊的區間
 3. 放剩下完全在右邊的區間
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

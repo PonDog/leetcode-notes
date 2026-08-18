@@ -2,8 +2,9 @@
 
 [← 回到 L14: Longest Common Prefix](README.md)
 
-`Time:O(nlogn+n*m)
-Space:O(logn)`
+`Time: O(nlogn+n*m)`
+
+`Space: O(logn)`
 
 <details>
 <summary>展開程式碼</summary>

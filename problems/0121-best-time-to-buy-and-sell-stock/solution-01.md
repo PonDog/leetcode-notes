@@ -6,9 +6,10 @@
 補充：因為每輪會先維護min，所以每個值當賣出點的當下，所減的buy必是該值左邊的min。
 >[!Tip] 類似Kadane's Algorithm解Maxium Subarray Sum 但我覺得沒有很像
 
+`Time: O(n)`
 
-`Time:O(n)
-Space:O(1)`
+`Space: O(1)`
+
 <details>
 <summary>展開程式碼</summary>
 

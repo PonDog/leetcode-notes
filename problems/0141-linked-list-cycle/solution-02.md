@@ -3,8 +3,10 @@
 [← 回到 L141: Linked List Cycle](README.md)
 
 想法是一個一次走一步，另一個一次走兩步，如有cycle，走兩步的會追上走一步的。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

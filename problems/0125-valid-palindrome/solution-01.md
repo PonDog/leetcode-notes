@@ -4,8 +4,10 @@
 
 isalnum(string)會回傳boolean，alpha和num才回傳true
 tolower(string)會轉小寫
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

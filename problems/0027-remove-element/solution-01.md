@@ -5,8 +5,9 @@
 雙指針，i遍歷找!=val的值，找到符合條件就丟到index位置放好，
 index和count(k)剛好可共用。
 
-`Time:O(n)
-Space:O(1)`
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

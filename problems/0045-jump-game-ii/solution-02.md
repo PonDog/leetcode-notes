@@ -8,8 +8,10 @@
 同樣跳數可到達的所有位置，可以視為同一層；而求最少跳數，就是看要擴幾層才能碰到終點。
 >[!Tip]由BFS簡化成Greedy
 >
-`Time:O(n^2)
-Space:O(n)`
+
+`Time: O(n^2)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

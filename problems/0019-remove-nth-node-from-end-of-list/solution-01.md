@@ -4,8 +4,10 @@
 
 利用兩個pointer來控制，slow停在要被刪掉的Node前，fast停在end Node。
 利用dummy來統一刪掉時要考慮是不是head的情況，且也同時讓刪head時不會直接出界指到nullptr
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

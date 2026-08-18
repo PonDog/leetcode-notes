@@ -3,8 +3,10 @@
 [← 回到 L86: Partition List](README.md)
 
 分成左半和右半兩個Link List，最後再合併。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

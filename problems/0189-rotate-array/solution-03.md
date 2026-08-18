@@ -4,8 +4,9 @@
 
 先算出每個element移動完後的位置，移到額外陣列，再移回來。
 
-`Time:O(n)
-Space:O(n)`
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

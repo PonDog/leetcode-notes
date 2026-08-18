@@ -6,8 +6,9 @@
 可先用除10的次方，把要確認的位置變到個位上，再用mod取出實際數字來確認要換成哪個Roman。
 另外因為是Integer轉Roman，就可以單純用一個陣列來存，不然就要用unordered_map。
 
-`Time:O(1)
-Space:O(1)`
+`Time: O(1)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -3,8 +3,11 @@
 [← 回到 L122: Best Time to Buy and Sell Stock II](README.md)
 
 第二次寫出來的答案，想法相同，但更精簡一點。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
+
 <details>
 <summary>展開程式碼</summary>
 

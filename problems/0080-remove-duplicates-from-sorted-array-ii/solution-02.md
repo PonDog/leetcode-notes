@@ -4,8 +4,9 @@
 
 要考慮到長度為1和2的情況怎麼處理
 
-`Time:O(n)
-Space:O(1)`
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

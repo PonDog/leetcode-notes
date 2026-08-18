@@ -4,8 +4,10 @@
 
 更簡潔一點。
 
-`Time:O(n)
-Space:O(1)`
+`Time: O(n)`
+
+`Space: O(1)`
+
 <details>
 <summary>展開程式碼</summary>
 

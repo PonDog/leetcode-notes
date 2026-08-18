@@ -2,8 +2,9 @@
 
 [← 回到 L88: Merge Sorted Array](README.md)
 
-`Time:O(m+n)
-Space:O(m+n)`
+`Time: O(m+n)`
+
+`Space: O(m+n)`
 
 <details>
 <summary>展開程式碼</summary>

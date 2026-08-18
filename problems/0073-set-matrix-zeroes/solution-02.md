@@ -4,8 +4,9 @@
 
 用額外陣列紀錄行列否要變0。
 
-`Time:O(mn)
-Space:O(m+n)`
+`Time: O(mn)`
+
+`Space: O(m+n)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -2,6 +2,7 @@
 
 [← 回到題庫首頁](../../README.md)
 
+- LeetCode題目連結：[https://leetcode.com/problems/roman-to-integer/description/](https://leetcode.com/problems/roman-to-integer/description/)
 - 難度：Easy
 - 題型：Array
 

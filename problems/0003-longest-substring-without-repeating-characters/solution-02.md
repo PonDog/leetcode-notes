@@ -7,8 +7,9 @@ Sliding Window:
 任何比它更右的起點都只會得到更短的 substring，更左的不合法，因此不需要考慮。
 這邊可以用vector或underored_map來存字母上次出現的index，但vector還是比較快。
 
-`Time:O(n)
-Space:O(128)`
+`Time: O(n)`
+
+`Space: O(128)`
 
 <details>
 <summary>展開程式碼</summary>

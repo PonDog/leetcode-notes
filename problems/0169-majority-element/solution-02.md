@@ -3,8 +3,10 @@
 [← 回到 L169: Majority Element](README.md)
 
 伊朗戰爭，炮彈對轟抵銷，炮彈多的終會獲勝。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

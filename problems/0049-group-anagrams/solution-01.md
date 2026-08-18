@@ -2,8 +2,9 @@
 
 [← 回到 L49: Group Anagrams](README.md)
 
-`Time:O(nklogk)
-Space:O(nk)`
+`Time: O(nklogk)`
+
+`Space: O(nk)`
 
 <details>
 <summary>展開程式碼</summary>

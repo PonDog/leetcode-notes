@@ -3,8 +3,10 @@
 [← 回到 L104: Maximum Depth of Binary Tree](README.md)
 
 DFS遞迴法
-`Time:O(n)每個節點拜訪一次
-Space:skewed:O(n) balanced:O(logn)`
+
+`Time: O(n)每個節點拜訪一次`
+
+`Space: skewed:O(n) balanced:O(logn)`
 
 <details>
 <summary>展開程式碼</summary>

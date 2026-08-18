@@ -2,6 +2,7 @@
 
 [← 回到題庫首頁](../../README.md)
 
+- LeetCode題目連結：[https://leetcode.com/problems/trapping-rain-water/description/](https://leetcode.com/problems/trapping-rain-water/description/)
 - 難度：Hard
 - 題型：Array
 

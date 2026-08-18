@@ -4,8 +4,9 @@
 
 自己想的DP方法，雖然時間跟垃圾一樣，但能解出來已經有進步了。
 
-`Time:O(n^2)
-Space:O(n)`
+`Time: O(n^2)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

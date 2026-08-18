@@ -6,8 +6,11 @@
 觀察[7,1,5,3,6,4]，只要從左到右遍歷相鄰兩元素能拿到的profit都能加到max_profit中。
 >[!Tip]Greedy
 >
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
+
 <details>
 <summary>展開程式碼</summary>
 

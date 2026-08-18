@@ -3,8 +3,10 @@
 [← 回到 L61: Rotate List](README.md)
 
 推薦的解法，把尾巴連到頭，再從頭找新尾巴，然後切斷。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

@@ -2,8 +2,9 @@
 
 [← 回到 L21: Merge Two Sorted Lists](README.md)
 
-`Time:O(l1長度+l2長度)
-Space:O(1)`
+`Time: O(l1長度+l2長度)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

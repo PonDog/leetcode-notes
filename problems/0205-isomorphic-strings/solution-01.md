@@ -2,8 +2,9 @@
 
 [← 回到 L205: Isomorphic Strings](README.md)
 
-`Time:O(n)
-Space:O(n)`
+`Time: O(n)`
+
+`Space: O(n)`
 
 <details>
 <summary>展開程式碼</summary>

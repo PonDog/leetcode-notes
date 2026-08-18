@@ -3,8 +3,10 @@
 [← 回到 L61: Rotate List](README.md)
 
 雙指標法，踩到的坑是當k%count為0的case，slow和fast最後會重疊，因此需要額外判斷。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

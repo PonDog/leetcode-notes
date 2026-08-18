@@ -4,8 +4,9 @@
 
 先反轉整個string，再將不是空格的字元依序從頭開始放，將放好的string反轉回來，加一個空格，繼續下一輪，最後再將尾巴resize去掉空格和舊字元。
 
-`Time:O(n)
-Space:O(1)`
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>

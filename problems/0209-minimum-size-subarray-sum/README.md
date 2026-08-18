@@ -2,6 +2,7 @@
 
 [← 回到題庫首頁](../../README.md)
 
+- LeetCode題目連結：[https://leetcode.com/problems/minimum-size-subarray-sum/description/](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 - 難度：Medium
 - 題型：Sliding Window
 

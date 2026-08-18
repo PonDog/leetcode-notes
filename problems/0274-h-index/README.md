@@ -2,6 +2,7 @@
 
 [← 回到題庫首頁](../../README.md)
 
+- LeetCode題目連結：[https://leetcode.com/problems/h-index/description/](https://leetcode.com/problems/h-index/description/)
 - 難度：Medium
 - 題型：Array
 

@@ -13,8 +13,10 @@
 >3. total_gas >= 0 保證全體油量足夠繞一圈。
 
 因此最後保留下來的候選點一定能成功繞完。
-`Time:O(n)
-Space:O(1)`
+
+`Time: O(n)`
+
+`Space: O(1)`
 
 <details>
 <summary>展開程式碼</summary>
