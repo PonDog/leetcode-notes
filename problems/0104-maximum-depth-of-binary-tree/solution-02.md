@@ -1,4 +1,4 @@
-# Solution 2 ⭐
+# Solution 2
 
 [← 回到 L104: Maximum Depth of Binary Tree](README.md)
 

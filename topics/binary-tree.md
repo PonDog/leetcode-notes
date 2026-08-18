@@ -1,4 +1,4 @@
-# Binary Tree
+# Binary Tree General
 
 [← 回到題庫首頁](../README.md)
 

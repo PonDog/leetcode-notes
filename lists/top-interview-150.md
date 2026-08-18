@@ -71,8 +71,8 @@
 | L61 | [Rotate List](../problems/0061-rotate-list/README.md) | [Linked List](../topics/linked-list.md) | Medium | 8/6,60m,! |  |  |
 | L86 | [Partition List](../problems/0086-partition-list/README.md) | [Linked List](../topics/linked-list.md) | Medium | 8/12,60m,! |  |  |
 | L146 | [LRU Cache](../problems/0146-lru-cache/README.md) | [Linked List](../topics/linked-list.md) | Medium | 8/12,180m,x |  |  |
-| L104 | [Maximum Depth of Binary Tree](../problems/0104-maximum-depth-of-binary-tree/README.md) | [Binary Tree](../topics/binary-tree.md) | Easy | 8/14,60m,x |  |  |
-| L100 | [Same Tree](../problems/0100-same-tree/README.md) | [Binary Tree](../topics/binary-tree.md) | Easy |  |  |  |
+| L104 | [Maximum Depth of Binary Tree](../problems/0104-maximum-depth-of-binary-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/14,60m,x |  |  |
+| L100 | [Same Tree](../problems/0100-same-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/18,60m,! |  |  |
 
 ## 紀錄符號
 

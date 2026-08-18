@@ -16,4 +16,4 @@
 - [Intervals](topics/intervals.md)（4 題）
 - [Stack](topics/stack.md)（5 題）
 - [Linked List](topics/linked-list.md)（11 題）
-- [Binary Tree](topics/binary-tree.md)（2 題）
+- [Binary Tree General](topics/binary-tree.md)（2 題）

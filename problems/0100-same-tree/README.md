@@ -3,8 +3,8 @@
 [← 回到題庫首頁](../../README.md)
 
 - 難度：Easy
-- 題型：Binary Tree
+- 題型：Binary Tree General
 
 ## Solutions
 
-> 原始紀錄尚未建立逐題解法。
+- [Solution 1 ⭐](solution-01.md)
