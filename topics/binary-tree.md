@@ -6,3 +6,4 @@
 |---:|---|---|
 | L104 | [Maximum Depth of Binary Tree](../problems/0104-maximum-depth-of-binary-tree/README.md) | Easy |
 | L100 | [Same Tree](../problems/0100-same-tree/README.md) | Easy |
+| L226 | [Invert Binary Tree](../problems/0226-invert-binary-tree/README.md) | Easy |
