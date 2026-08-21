@@ -73,7 +73,6 @@
 | L146 | [LRU Cache](../problems/0146-lru-cache/README.md) | [Linked List](../topics/linked-list.md) | Medium | 8/12,180m,x |  |  |
 | L104 | [Maximum Depth of Binary Tree](../problems/0104-maximum-depth-of-binary-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/14,60m,x |  |  |
 | L100 | [Same Tree](../problems/0100-same-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/18,60m,! |  |  |
-
 | L226 | [Invert Binary Tree](../problems/0226-invert-binary-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/19,10m,o |  |  |
 
 ## 紀錄符號
