@@ -7,7 +7,7 @@
 
 `Time: O(n)`
 
-`Space: skewed\:O(n) balanced\:O(logn)`
+`Space: skewed:O(n) balanced:O(logn)`
 
 <details>
 <summary>展開程式碼</summary>
