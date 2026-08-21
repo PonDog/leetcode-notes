@@ -74,6 +74,7 @@
 | L104 | [Maximum Depth of Binary Tree](../problems/0104-maximum-depth-of-binary-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/14,60m,x |  |  |
 | L100 | [Same Tree](../problems/0100-same-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/18,60m,! |  |  |
 | L226 | [Invert Binary Tree](../problems/0226-invert-binary-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/19,10m,o |  |  |
+| L101 | [Symmetric Tree](../problems/0101-symmetric-tree/README.md) | [Binary Tree General](../topics/binary-tree.md) | Easy | 8/20,60m,! |  |  |
 
 ## 紀錄符號
 
