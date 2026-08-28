@@ -78,6 +78,7 @@
 | L105 | [Construct Binary Tree from Preorder and Inorder Traversal](../problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | [Binary Tree General](../topics/binary-tree.md) | Medium | 8/21,60m,x |  |  |
 | L106 | [Construct Binary Tree from Inorder and Postorder Traversal](../problems/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | [Binary Tree General](../topics/binary-tree.md) | Medium | 8/22,60m,o |  |  |
 | L117 | [Populating Next Right Pointers in Each Node II](../problems/0117-populating-next-right-pointers-in-each-node-ii/README.md) | [Binary Tree General](../topics/binary-tree.md) | Medium | 8/27,120m,! |  |  |
+| L114 | [Flatten Binary Tree to Linked List](../problems/0114-flatten-binary-tree-to-linked-list/README.md) | [Binary Tree General](../topics/binary-tree.md) | Medium | 8/28,60m,o |  |  |
 
 ## 紀錄符號
 
