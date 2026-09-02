@@ -12,3 +12,4 @@
 | L106 | [Construct Binary Tree from Inorder and Postorder Traversal](../problems/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Medium |
 | L117 | [Populating Next Right Pointers in Each Node II](../problems/0117-populating-next-right-pointers-in-each-node-ii/README.md) | Medium |
 | L114 | [Flatten Binary Tree to Linked List](../problems/0114-flatten-binary-tree-to-linked-list/README.md) | Medium |
+| L112 | [Path Sum](../problems/0112-path-sum/README.md) | Easy |
